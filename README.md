@@ -12,6 +12,7 @@
 **8\. [Configuración de Redes](redes.md)**  
 **9\. [Configuración de SSH](ssh.md)**  
 
+![imagen](linux.jpg)
 ---
 
 
