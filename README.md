@@ -1,4 +1,6 @@
 ### **Guía de Comandos Básico de Linux para Administradores**
+  
+![imagen](/img/linux.jpg)
 
 ---
 
@@ -12,7 +14,6 @@
 **8\. [Configuración de Redes](redes.md)**  
 **9\. [Configuración de SSH](ssh.md)**  
 
-![imagen](/img/linux.jpg)
 ---
 
 
