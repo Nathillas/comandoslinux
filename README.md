@@ -2,12 +2,25 @@
 
 ---
 
+**1\. [Actualización y Mantenimiento del Sistema](actualizacion.md)**  
+**2\. [Información del Sistema](informacion.md)**  
+**3\. [Herramientas de Red](herramientas.md)**  
+**4\. [Administración de Procesos](administracion.md)**  
+**5\. [Gestión de Usuarios](gestion.md)**  
+**6\. [Logs y Diagnósticos del Sistema](logs.md)**  
+**7\. [Gestión de Paquetes](paquetes.md)**  
+**8\. [Configuración de Redes](redes.md)**  
+**9\. [Configuración de SSH](ssh.md)**  
+
+---
+
+
 #### **1\. Actualización y Mantenimiento del Sistema**
 
 - **Actualizar el sistema:**  
   `sudo apt update`
 
-`sudo apt upgrade`
+  `sudo apt upgrade`
 
 * *Descripción*: Actualiza la lista de paquetes y luego actualiza todos los paquetes instalados.  
     
@@ -29,7 +42,7 @@
 
 - **Ver versión del sistema operativo:**
 
-  `lsb_release -a`
+  ```lsb_release -a```
 
 - **Ver los paquetes instalados en la máquina:**
 
