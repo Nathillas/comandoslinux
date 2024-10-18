@@ -1,8 +1,8 @@
 ### **Guía de Comandos Básico de Linux para Administradores**
   
-![imagen](/img/linux.jpg)
 
 ---
+![imagen](/img/linux.jpg)
 
 **1\. [Actualización y Mantenimiento del Sistema](actualizacion.md)**  
 **2\. [Información del Sistema](informacion.md)**  
