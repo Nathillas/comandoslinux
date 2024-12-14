@@ -4,7 +4,7 @@
 ---
 ![imagen](/img/linux.jpg)
 
-**1\. [# Actualización y Mantenimiento del Sistema](#actualizacion-y-mantenimiento-del-sistema)**  
+**1\. [Actualización y Mantenimiento del Sistema](#actualizacion-y-mantenimiento-del-sistema)**  
 **2\. [Información del Sistema](informacion.md)**  
 **3\. [Herramientas de Red](herramientas.md)**  
 **4\. [Administración de Procesos](administracion.md)**  
